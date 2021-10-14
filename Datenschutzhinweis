@@ -1,0 +1,10 @@
+
+
+
+#### Datenschutzhinweis
+
+Dieses Projekt erhielt keine finanziellen oder institutionellen Anreize. Die anonymisierten Ergebnisse werden nur zur Validierung und Normierung des Fragebogens selbst gespeichert (Item-Eigenschaften, wie z.B. Antwortverteilungen) und werden auf dem Server der Universität Oldenburg, Deutschland, unter aktuellen Sicherheits- und Datenschutzstandards gespeichert. Weitere Informationen zu Datenschutz und Datensicherheit finden sich im GDPR-Abschnitt der formR-Publikation (Arslan, Walther & Tata, 2020)[1]
+
+
+
+[1] Arslan, R.C., Walther, M.P. & Tata, C.S. formr: A study framework allowing for automated feedback generation and complex longitudinal experience-sampling studies using R. Behav Res 52, 376-387 (2020). https://doi.org/10.3758/s13428-019-01236-y
