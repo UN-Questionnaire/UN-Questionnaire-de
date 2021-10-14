@@ -1,5 +1,4 @@
 
-
 # UN-Questionnaire - Deutsche Version. Sprache: [[EN]](https://github.com/UN-Questionnaire/UN-Questionnaire-de) | DE
 
 *Experimenteller Status*
@@ -116,8 +115,8 @@ Auch wenn die meisten Instrumente sich in als nützlich in der klinischen Praxis
 - Entlassungsfragebogen zur Patientenzufriedenheit nach des Therapieerfolgs
  - Große Sammlung von hoch experimentellen, benutzerdefinierten Items zur Entdeckung von Biomarkern
  (z.B. Eierkonsum für Tryptophanaufnahme)  
-## Dependencies
-Erstellt mit formR. FormR ist ein auf R basierendes Software-Framework für die Erstellung von psychologischen-longitudinalen Fragebögen. Es wurde von Ruben Arslan an der Universität Oldenburg entwickelt und befindet sich in aktiver Entwicklung (zu Zeiten kann es zu kurzfristigen Unterbrechungen durch z.B. Softwareupdates kommen). Es ist ein äußerst gewissenhaftes Projekt, das dieses Projekt erst ermöglichte. 
+## Abhängigkeiten
+Dieses Projekt wurde großenteils mit formR erstellt. FormR ist ein auf R basierendes Software-Framework für die Erstellung von psychologischen-longitudinalen Fragebögen. Es wurde von Ruben Arslan an der Universität Oldenburg entwickelt und befindet sich in aktiver Entwicklung (zu Zeiten kann es zu kurzfristigen Unterbrechungen durch z.B. Softwareupdates kommen). Es ist ein äußerst gewissenhaftes Projekt, das dieses Projekt erst ermöglichte. 
 ## Feedback und Bugs
 
 Probleme oder Bugs können über github erstellt werden oder direkt per Email (un-questionnaire@outlook.com) für jede Art von Feedback.
