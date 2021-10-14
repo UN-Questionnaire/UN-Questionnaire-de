@@ -70,7 +70,7 @@ Um den Fragebogen parallel mit mehreren Patienten nutzen zu können, müssen (zu
 #### Sitzungscode und Datenschutz
 Der generierte Sitzungscode / URL ist die einzige Möglichkeit, auf eine einzelne Testsitzung zuzugreifen und erneut aufrufen zu können. Ein einzelner Session-Cookie wird während einer Sitzung auf einem Gerät/Browser zwischengespeichert. 
 Es werden keine personenbeziehbaren Informationen ausgewertet und keine Daten an Dritte weitergegeben. Die Daten werden nur zur Validierung und Normierung des Fragebogens verwendet. 
-[[2]](/Datenschutzhinweis)  [[3]](//Datenschutzhinweis)
+[[2]](./Datenschutzhinweis)
   	
 
 
