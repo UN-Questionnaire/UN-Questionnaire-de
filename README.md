@@ -91,7 +91,7 @@ Es werden keine personenbeziehbaren Informationen ausgewertet und keine Daten an
  (z.B. für Neurofeedback) 
  - UN-Q Tageszustände 
 - UN-Q Verlaufsmessung und Wohlbefinden
-- BFI-10 (5-Faktoren) Persönlichkeitseigenschaften- Katamnese / Entlassungsfragebogen (z.Z. noch nicht implementiert, enthält z.B. neutral bis leicht positiv geprägte Therapieerfolgs- und Patientenzufriedenheitsitems)
+- BFI-10 (5-Faktoren) Persönlichkeitseigenschaften- Katamnese / Entlassungsfragebogen (z.Z. noch nicht implementiert, enthält u.a. neutral bis leicht positiv geprägte Therapieerfolgs- und Patientenzufriedenheitsitems)
 
 ### Testdesign
 
@@ -101,7 +101,7 @@ Es werden keine personenbeziehbaren Informationen ausgewertet und keine Daten an
 Der Fragebogen wurde eklektisch (nicht theoriegeleitet) entwickelt, und ursprünglich, um neurophysiologische Korrelate / Biomarker zu entdecken. 
 
 
-Der UN-Q basiert auf einem [eingehenden Vergleich von etwa 60 klinischen Fragebögen](https://github.com/UN-Questionnaire/Comparison-of-Psychological-Clinical-Instruments). 
+Der UN-Q basiert auf einem [Vergleich von 60 klinischen Fragebögen](https://github.com/UN-Questionnaire/Comparison-of-Psychological-Clinical-Instruments). 
 Auch wenn die meisten Instrumente sich in als nützlich in der klinischen Praxis erweisen können, so zeichneten sich einige Fragebögen durch ihre Effizienz oder Allgemeinheit: Der APA DSM-5 CC Symptoms (auch als Online-Versionen in [Englisch](https://github.com/UN-Questionnaire/DSM-5-Crosscutting-Symptoms-en) und [Deutsch](https://github.com/UN-Questionnaire/DSM-5-Crosscutting-Symptoms-de) verfügbar), Patient Health Questionnaire PHQ, die Affective Scale AS-2, Big-Five-Inventory BFI-10. Das Lebenszufriedenheits-Item L-1 und insbesondere das Happyness-Item von Terman aus den 1930er Jahren *'Wie glücklich sind Sie?'* und das *'mehr Varianz erklärt als alle anderen Items zusammen'*, dienten als Inspiration für die Entwicklung dieses explorativen Fragebogens und zur Untersuchung der Grenzen sprachbasierter Instrumente. 
 
 
