@@ -108,7 +108,7 @@ Auch wenn die meisten Instrumente sich in als nützlich in der klinischen Praxis
 
 
 #### Derzeit nicht enthalten:
-- Interpretation und theoretischer Hintergrund jedes gemessenen Konstrukts (aufgrund der großen Anzahl von Konstrukten)
+- Interpretation und theoretischer Hintergrund der gemessenen Konstrukte (aufgrund der großen Anzahl von Konstrukten)
 
 
 - Analyse der Itemqualität und Nützlichkeit (wird bei ausreichender Stichprobengröße durchgeführt) und Hinzufügen von farbigen Histogrammen/Gaußkurven zu den Feedback-Displays, z.B. klassifiziert nach Symptomstärke 
