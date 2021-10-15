@@ -120,7 +120,7 @@ Dieses Projekt wurde großenteils mit formR erstellt. FormR ist ein auf R basier
 ## Feedback und Bugs
 
 Probleme, Bugs oder Anregungen können über github gemeldet werden oder direkt per Email (un-questionnaire@outlook.com).
-#### Referenzen
+### Referenzen
 [1] Arslan, R.C., Walther, M.P. & Tata, C.S. formr: A study framework allowing for automated feedback generation and complex longitudinal experience-sampling studies using R. Behav Res 52, 376-387 (2020). https://doi.org/10.3758/s13428-019-01236-y
 
 
