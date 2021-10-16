@@ -116,7 +116,7 @@ Auch wenn die meisten Instrumente sich in als nützlich in der klinischen Praxis
  - Große Sammlung von hoch experimentellen, benutzerdefinierten Items zur Entdeckung von Biomarkern
  (z.B. Eierkonsum für Tryptophanaufnahme)  
 ## Abhängigkeiten
-Dieses Projekt wurde großenteils mit formR erstellt. FormR ist ein auf R basierendes Software-Framework für die Erstellung von psychologischen-longitudinalen Fragebögen. Es wurde von Ruben Arslan an der Universität Oldenburg entwickelt und befindet sich in aktiver Entwicklung (zu Zeiten kann es zu kurzfristigen Unterbrechungen durch z.B. Softwareupdates kommen). Es ist ein äußerst gewissenhaftes Projekt, das dieses Projekt erst ermöglichte. (Arslan, Walther & Tata, 2020)[1]
+Dieses Projekt wurde großenteils mit formR erstellt. FormR ist ein auf R basierendes Software-Framework für die Erstellung von psychologischen-longitudinalen Fragebögen. Es wurde von Ruben Arslan an der Universität Göttingen entwickelt und befindet sich in aktiver Entwicklung (zu Zeiten kann es zu kurzfristigen Unterbrechungen durch z.B. Softwareupdates kommen). Es ist ein äußerst gewissenhaftes Projekt, das dieses Projekt erst ermöglichte. (Arslan, Walther & Tata, 2020)[1]
 ## Feedback und Bugs
 
 Probleme, Bugs oder Anregungen können über github gemeldet werden oder direkt per Email (un-questionnaire@outlook.com).
